@@ -1,0 +1,44 @@
+<html>
+<head>
+<style>
+.heading{
+background-colour:yellow;
+}
+.navbar{
+border:solid;black;
+}
+.sec1{}
+.sec2{}
+.sec3{}
+.sec4{}
+.sec5{}
+.sec6{}
+.footer{}
+</style>
+</head>
+<body>
+<div class="heading">
+<h3>Gurukuls of India</h3></div>
+<div class="navbar"></div>
+
+<div class="sec1">
+<h3>About Us</h3>
+<button class="b1">Click to know more</button></div>
+<div class="sec2">
+<h3>Gurukuls of India What are they?</h3>
+<button class="b2">Click to know more</button></div>
+<div class="sec3">
+<h3>Advantages of Gurukuls</h3>
+<button class="b3">Click to know more</button></div>
+<div class="sec4">
+<h3>Gurukuls and the Past</h3>
+<button class="b4">Click to know more</button></div>
+<div class="sec5">
+<h3>Importance of gurukuls in current times</h3>
+<button class="b5">Click to know more</button></div>
+<div class="sec6">
+<h3>Best Gurukuls of India today</h3>
+<button class="b6">Click to know more</button></div>
+<div class="footer"></div>
+</body>
+</html>
