@@ -64,12 +64,12 @@ button:hover {
 <div class="heading">
 <h3>Gurukuls of India</h3></div>
 <div class="navbar">
-    <a href="#aboutus">About Us</a>
-    <a href="#what">What are Gurukuls?</a>
-    <a href="#advantages">Advantages</a>
-    <a href="#past">Gurukuls and the Past</a>
-    <a href="#importance">Current Importance</a>
-    <a href="#best">Best Gurukuls Today</a>
+    <a href="aboutus">About Us</a>
+    <a href="what">What are Gurukuls?</a>
+    <a href="advantages">Advantages</a>
+    <a href="past">Gurukuls and the Past</a>
+    <a href="importance">Current Importance</a>
+    <a href="best">Best Gurukuls Today</a>
 </div>
 
 <div class="sec1" id="aboutus">
